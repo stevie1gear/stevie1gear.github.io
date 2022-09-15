@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for a computer science class, specifically machine learning related.
 nav: true
 nav_order: 5
